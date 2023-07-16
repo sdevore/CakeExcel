@@ -3,7 +3,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/dakota/cake-excel.svg?style=flat-square)](https://packagist.org/packages/dakota/cake-excel)
 [![Latest Stable Version](https://img.shields.io/packagist/v/dakota/cake-excel.svg?style=flat-square)](https://packagist.org/packages/dakota/cake-excel)
 
-# CakeExcel
+# CakeExcel (forked)
 
 A plugin to generate Excel files with CakePHP.
 
